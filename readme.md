@@ -4,7 +4,7 @@ Building a platform that makes it easier for small high-growth businesses to nav
 
 ## What is HIRE-EZ?
 
-HIRE-EZ Is a demonstration application that demonstrates the flexibility of RFP-EZ. In this case, the demo is about recruiting and screening a round of fellows for a project.
+Hire-EZ is a demonstration application (adapted from RFP-EZ) that facilitates collaborative review of applications for employment. In this case, the demo is about collecting and reviewing applications for fellowship positions.
 
 ## Setting up your development environment
 
